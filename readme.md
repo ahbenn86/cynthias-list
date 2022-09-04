@@ -1,10 +1,10 @@
 # Cynthia's List
-### A to-do list app.  
+### A to-do list app which utilizes local storage to add, save, and remove notes.
 <br/>
-<a href="#">View Live</a>
+<a href="https://ahbenn86.github.io/cynthias-list/">View Live</a>
 <!-- ![Insert Image Link Here]() -->
 
-> Currently under development 
+> 
 <br/>
 
 #### Languages and tools 
